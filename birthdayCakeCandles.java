@@ -10,8 +10,6 @@ public class birthdayCakeCandles {
             current = scanner.nextInt();
             if(current > max)
             {
-
-                
                 max = current;
                 maxCandles = 1;
             }
